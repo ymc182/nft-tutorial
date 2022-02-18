@@ -5,7 +5,7 @@
 /neardev
 /.pnp
 .pnp.js
-
+.secret
 #cache
 .cache
 .parcel-cache
